@@ -1,2 +1,2 @@
-# gamesim
+# MidtermProject
 GameOfLife
